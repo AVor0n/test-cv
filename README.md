@@ -1,5 +1,6 @@
-# Тестовое задание для школы [Кодмастерс](https://www.itschool.pro/frontend)
+# Тестовое для курса по Angular школы [Кодмастерс](https://www.itschool.pro/frontend)
 
+[Результат](https://avor0n.github.io/test-cv/)
 
 Сделать своё резюме в технологиях HTML, CSS. В нём разместить информацию о себе:
 - ФИО
